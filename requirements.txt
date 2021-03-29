@@ -65,7 +65,7 @@ protobuf==3.8.0
 ptyprocess==0.6.0
 public==2019.4.13
 pycrypto==2.6.1
-Pygments==2.4.2
+Pygments==2.7.4
 pygobject==3.26.1
 pyparsing==2.4.0
 pyrsistent==0.15.2
